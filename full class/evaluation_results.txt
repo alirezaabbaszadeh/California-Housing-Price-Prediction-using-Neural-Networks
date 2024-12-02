@@ -1,0 +1,5 @@
+Evaluation Results:
+Mean Absolute Error (MAE): 83819.2734375
+Mean Absolute Percentage Error (MAPE): 46.65%
+Root Mean Squared Error (RMSE): 113046.546875
+R-squared (R^2): 0.03872513771057129
